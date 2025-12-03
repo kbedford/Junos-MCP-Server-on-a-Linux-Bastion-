@@ -531,8 +531,6 @@ This setup turns a Linux bastion into a **central MCP gateway for Junos**:
   * Build small scripts/health checks on top of MCP
 
 This README intentionally stops at the CLI + HTTP layer.
+
 The same MCP server can later be integrated with IDEs, chat agents, or other tooling, but the core pattern of “bastion MCP server + `jmcp_cli`” already provides a powerful operational workflow.
 
-```
-::contentReference[oaicite:0]{index=0}
-```
