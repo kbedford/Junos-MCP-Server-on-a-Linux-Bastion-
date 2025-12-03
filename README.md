@@ -2,9 +2,8 @@
 Centralised Junos CLI via MCP + HTTP*
 
 
-```markdown
-
 # Junos MCP Server on a Linux Bastion  
+
 **Centralised Junos CLI via MCP + HTTP**
 
 This README describes how to set up the [Junos MCP Server](https://github.com/Juniper/junos-mcp-server) on a Linux host (typically a bastion/jump server) so operations teams can:
@@ -36,7 +35,7 @@ High-level flow:
 4. MCP server connects to the Junos router, runs the CLI command, and returns the output.
 5. The helper function prints the CLI text back to the operator.
 
----
+
 
 ## 2. Prerequisites
 
