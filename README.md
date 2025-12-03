@@ -1,4 +1,4 @@
-# Junos-MCP-Server-on-a-Linux-Bastion-
+# Junos-MCP-Server-on-a-Linux-Bastion
 Centralised Junos CLI via MCP + HTTP*
 
 
